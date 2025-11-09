@@ -1,0 +1,18 @@
+# hugo.toml - 最終正確版本
+
+baseURL = "https://ysklushi.github.io/karolushiblog/"
+languageCode = "zh-Hant-TW"
+title = "過勞律師札記"
+
+# 告訴 Hugo，網站的主要內容區塊是 "posts"
+# 這會讓首頁的預設分頁器自動去抓取 posts 資料夾的內容
+mainSections = ["posts"]
+
+# 設定分頁，每頁顯示 10 篇文章
+[pagination]
+  pageSize = 10
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

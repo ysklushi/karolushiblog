@@ -1,0 +1,30 @@
+{{ define "main" }}
+
+    <a href="{{ .Site.BaseURL }}" class="back-link">&larr; 返回文章列表</a>
+
+    <article>
+        <header class="article-header">
+            {{ with .Params.category }}
+            <span class="category">{{ . }}</span>
+            {{ end }}
+            <h1>{{ .Title }}</h1>
+            <div class="meta">
+                由 <strong>楊時綱律師</strong> 發佈於 {{ .Date.Format "2006年01月02日" }}
+            </div>
+        </header>
+
+        <div class="article-content">
+            {{ .Content }}
+        </div>
+    </article>
+
+    <div class="cta-section">
+        <a href="https://karolushi.netlify.app/#contact" class="cta-button" target="_blank" rel="noopener noreferrer">聯繫律師尋求協助</a>
+    </div>
+    <!-- ===== ↓↓↓ 新增的底部返回連結 ↓↓↓ ===== -->
+    <div class="bottom-back-link-wrapper">
+        <a href="{{ .Site.BaseURL }}" class="back-link">&larr; 返回文章列表</a>
+    </div>
+    <!-- ===== ↑↑↑ 新增的底部返回連結 ↑↑↑ ===== -->
+
+{{ end }}
