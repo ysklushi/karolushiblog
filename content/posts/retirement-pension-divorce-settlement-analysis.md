@@ -13,7 +13,7 @@ draft: false
 
 本文將透過最高法院兩則最新的關鍵判決，為您解析勞退舊制與新制的退休金，在夫妻剩餘財產分配中的法律地位與計算方式。
             
-<img class="article-main-image" src="/karolushiblog/images/retirement-pension-divorce-settlement-analysis-001.jpg" alt="桌上一對婚戒旁邊放著計算機和文件，象徵離婚時的財產計算">
+<img class="article-main-image" src="/karolushiblog/images/retirement-pension-divorce-settlement-analysis-002.jpg" alt="桌上一對婚戒旁邊放著計算機和文件，象徵離婚時的財產計算">
 
 ## 一、勞退舊制：符合退休條件，即屬於「既得權利」應納入分配
 
