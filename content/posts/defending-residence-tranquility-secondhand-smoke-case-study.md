@@ -60,5 +60,3 @@ draft: false
 然而，我們必須清醒地認識到，本案的成功有其特殊性，特別是那份「10公尺」的和解筆錄，其他案件可能不具備這前提條件。對於沒有這類明確標準的一般民眾而言，要證明二手菸侵害居住安寧權，依然是一條充滿挑戰的漫漫長路。
 
 這則判決最重要的啟示，不在於局部勝訴的結果，而在於它突顯了<span class="highlight">面對無形侵擾時舉證的艱難</span>。它告訴我們，捍衛家園的安寧，不僅需要法律知識，更需要策略性的思考與鍥而不捨的努力。
-
-<img class="article-main-image" src="/karolushiblog/images/defending-residence-tranquility-secondhand-smoke-002.jpg" alt="一張簡報圖，總結二手菸侵權案的三大法律關鍵：和解具體化、現場勘驗、主張居住安寧權，並標示出此為個案，舉證困難。">
