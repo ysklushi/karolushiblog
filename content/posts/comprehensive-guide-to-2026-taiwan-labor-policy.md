@@ -7,7 +7,7 @@ category: "法律與政策"
 draft: false
 ---
 
-本份指南旨在深度解析勞動部為因應「缺工」、「低薪」與「職場壓力」三大難題，所提出的「五大面向、十大新制」核心變革。
+本文旨在解析勞動部為因應「缺工」、「低薪」與「職場壓力」三大難題，所提出的「五大面向、十大新制」核心變革。
 
 <img class="article-main-image" src="/karolushiblog/images/comprehensive-guide-to-2026-taiwan-labor-policy-001.jpg" alt="2026年勞動部新制指南封面">
 
