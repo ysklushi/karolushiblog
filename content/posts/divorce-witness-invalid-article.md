@@ -11,7 +11,7 @@ draft: false
 
 這種事並非電影情節，在台灣法院的實務案例中屢見不鮮。問題的根源，往往出在一個被大多數人輕忽的環節——離婚證人。
 
-<img class="article-main-image" src="/karolushiblog/images/divorce-witness-invalid-article-001.png" alt="離婚證人">
+<img class="article-main-image" src="/karolushiblog/images/divorce-witness-invalid-article-001.jpg" alt="離婚證人">
 
 
 ## 一、兩願離婚，比你想的更講究形式
